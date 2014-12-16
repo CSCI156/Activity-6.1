@@ -1,4 +1,4 @@
-Chapter 6 – day 1
+##### Chapter 6 – day 1
 
 1. Write a function corners() that will take two parameters m and n and returns a string with m+1 plus signs each of which 
 are separated by n dashes. So corners(3,2) would return +--+--+--+ and corners(1,5) would return +-----+
