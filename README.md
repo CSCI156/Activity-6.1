@@ -13,7 +13,7 @@ and vertical(1,5) would return
 |     |
 ```
 
-3. Write a function boxes(m,n,o,p) which will return a box (as a string) divided into m boxes horizontally each of which are n dashes wide, and o boxes vertically each of which has p vertical dashes.   
+3. Write a function boxes(m,n,o,p) which will return a string that is a large box divided into smaller boxes. The smaller boxes should be n dashes wide and p vertical dashes high. The large box is m of the smaller boxes wide and o of the smaller boxes high.  
 
 box(3,4,2,5) 
 
@@ -35,4 +35,9 @@ should return the string that when printed that gives 3 boxes horizontally with 
 +----+----+----+
 ```
 
-
+This wouldn't be a bad place to comment your code:
+def boxes(m, n, o, p):
+# m is the number of small boxes horizontally.
+# n is the number of horizontal dashes at the top of a small box.
+# o is the number of small boxes vertically.
+# p is the height of a small box in vertical dashes.
