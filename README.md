@@ -37,7 +37,7 @@ should return the string that when printed that gives 3 boxes horizontally with 
 
 This wouldn't be a bad place to comment your code:
 def boxes(m, n, o, p):
-# m is the number of small boxes horizontally.
-# n is the number of horizontal dashes at the top of a small box.
-# o is the number of small boxes vertically.
-# p is the height of a small box in vertical dashes.
+\# m is the number of small boxes horizontally.
+\# n is the number of horizontal dashes at the top of a small box.
+\# o is the number of small boxes vertically.
+\# p is the height of a small box in vertical dashes.
