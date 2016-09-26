@@ -43,3 +43,5 @@ def boxes(m, n, o, p):
 # o is the number of small boxes vertically.
 # p is the height of a small box in vertical dashes.
 ```
+
+One last thing, because we are using functions now, each one of these can be done in one line!
